@@ -10,5 +10,5 @@ Download zip File .
 
     *Open Config.php.
 	*Enter Required Infomation .
-	*and Enjoy The Api.
+	*and Enjoy The Api.        
 >>>>>>> master
